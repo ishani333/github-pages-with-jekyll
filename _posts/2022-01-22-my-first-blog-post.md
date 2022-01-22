@@ -1,2 +1,2 @@
-title: Anime-vs Manga 
+title: "Anime-vs Manga" 
 date: 2022-01-22
